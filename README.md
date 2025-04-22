@@ -33,10 +33,10 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+ Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 ```
 Developed by:Swetha A
-RegisterNumber:212224040343*/
+RegisterNumber:212224040343
 module BFM(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
